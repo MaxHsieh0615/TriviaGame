@@ -1,0 +1,44 @@
+body, html {
+    height: 100%;
+}
+
+.bg {
+    background-image: url(../images/background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header{
+    color: black;
+    margin: 90px;
+    text-align: center;
+}
+
+#btnContainer{
+    text-align: center;
+    color: white;
+    margin: 150px
+}
+
+#start {
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+#image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button {
+    background-color: yellow;
+    border-radius: 50%;
+    font-size: 20px;
+}
